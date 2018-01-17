@@ -1,0 +1,1 @@
+exec transform.exe -s:WebReports.xml -xsl:transformator.xsl -o:result.xml
